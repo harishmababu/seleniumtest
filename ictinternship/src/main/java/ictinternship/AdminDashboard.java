@@ -21,6 +21,7 @@ public class AdminDashboard {
 //adding a new mentor	
 public void addMentor()
 {
+	
 
 	driver.findElement(By.xpath("//a[@href='/addmentor']")).click();
 }
