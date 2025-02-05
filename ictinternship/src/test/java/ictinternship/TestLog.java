@@ -41,6 +41,7 @@ public class TestLog extends BaseLog
 		ad.addTitle("Test");
 		ad.titleEdit("Test Sample");
 		//ad.titledel();
+		
 //	ad.addMentor();
 //	ad.name("Rohit");
 //		ad.mail("rohit@gmail.com");
