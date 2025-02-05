@@ -28,6 +28,7 @@ public void addMentor()
 //enter name
 public void name(String nme)
 {
+	
 	WebElement nm=driver.findElement(By.xpath("//input[@type='text']"));
 	nm.click();
 	nm.sendKeys(nme);
