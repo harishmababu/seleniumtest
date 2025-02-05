@@ -11,6 +11,8 @@ public class TestLog extends BaseLog
 	AdminLogin al=null;
 	AdminDashboard ad=null;
 	ViewMentor vm=null;
+	
+	
 	@Test
 	public void LogTest() throws InterruptedException
 	{
