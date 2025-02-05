@@ -13,6 +13,7 @@ public class TestLog extends BaseLog
 	ViewMentor vm=null;
 	
 	
+	
 	@Test
 	public void LogTest() throws InterruptedException
 	{
